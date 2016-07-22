@@ -1,12 +1,13 @@
 *.class
 *.log
-
+.idea
 # sbt specific
 .cache
 .history
 .lib/
 dist/*
 target/
+project/target
 lib_managed/
 src_managed/
 project/boot/
